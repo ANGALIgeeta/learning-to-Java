@@ -1,2 +1,1 @@
 ﻿# learning-to-Java
-# Day 2
